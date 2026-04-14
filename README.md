@@ -43,8 +43,6 @@ network-intrusion-detection-system/<br/>
 │── notebook/.ipynb_checkpoints<br/>
 │ └── network-intrusion-detection-system.ipynb<br/>
 │<br/>
-│── README.md<br/>
-│<br/>
 │── screenshots/<br/>
 │ ├── DoSAttack(Malicious).png<br/>
 │ ├── dataTheft(Malicious).png<br/>
@@ -52,6 +50,7 @@ network-intrusion-detection-system/<br/>
 │ ├── normalWeb(Safe).png<br/>
 │ └── portScan(Malicious).png<br/>
 │<br/>
+│── README.md<br/>
 │── app.py<br/>
 └── requirements.txt<br/>
 
